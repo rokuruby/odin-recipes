@@ -11,3 +11,8 @@ button {
     font-size: xx-large;
 
 }
+
+img {
+    width: 50%;
+    height: auto;
+}
