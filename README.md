@@ -1,3 +1,2 @@
-# odin-recipes
-A learning project about makign a simple HTML website
-This project is my first introduction to Web Development coding for the Odin Project course. I will proceed to make a simple HTML website using the best practises of professional web developers with Visual Studio Code, Git, and GitHub
+<h1>Odin Recipes</h1>
+Welcome to odin-recipes, a simple HTML website created as a learning project for the Odin Project's Web Development course. This project is my first introduction to coding for web development and includes best practices learned from professional developers. It was created using Visual Studio Code, Git, and GitHub.
